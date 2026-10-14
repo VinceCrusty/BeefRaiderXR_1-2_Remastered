@@ -4,7 +4,7 @@ This Windows PCVR build supports Tomb Raider I and II, with optional Remaster gr
 
 This is a test build, so some graphics issues and gameplay bugs are still possible. HD features require the corresponding Remaster assets; the EXE does not include the game files.
 
-## Installation
+## Installation Windows
 
 1. Open your BeefRaiderXR installation folder
 2. Copy the new `BeefRaiderXR.exe` into that same folder, alongside the `DATA` folder and the other game-content folders. Do not put it inside `DATA`, `ITEM` or `TEX`
@@ -14,6 +14,16 @@ This is a test build, so some graphics issues and gameplay bugs are still possib
 Keep your existing content folders and runtime files. For HD graphics, retain the complete Remaster content, including `ITEM`, `TEX`, `PIX`, `FMV`, `TRACKS` and `SFX`. Some TR2 assets are shared with TR1: if your installation uses neighbouring `1` and `2` folders, keep that layout intact.
 
 Existing settings and saves are preserved. The bundled defaults apply when no valid settings file is present. This EXE update is not a complete first-time installation package.
+
+## Installation Meta Quest
+
+1. Connect your Quest to your PC and open its internal storage
+2. Create a folder named `BeefRaider` in the root directory of the Quest
+3. Copy the entire contents of the Remaster `1` folder into `BeefRaider`
+4. Install the BeefRaiderXR APK on your Quest
+5. Launch BeefRaiderXR on the headset
+
+**Note:** The Quest version has not been tested and currently has significant graphics issues, including flickering, shader errors and poor performance at some places
 
 ## Graphics and presentation
 
