@@ -1,6 +1,6 @@
 # BeefRaiderXR 1 + 2 Remastered: Features and Installation
 
-This Windows PCVR build supports Tomb Raider I and II, with optional Remaster graphics and motion-controlled VR interactions.
+This Windows PCVR and native Meta Quest build supports Tomb Raider I and II, with optional Remaster graphics and motion-controlled VR interactions.
 
 This is a test build, so some graphics issues and gameplay bugs are still possible. HD features require the corresponding Remaster assets; the EXE does not include the game files.
 
