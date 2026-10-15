@@ -19,11 +19,19 @@ Existing settings and saves are preserved. The bundled defaults apply when no va
 
 1. Connect your Quest to your PC and open its internal storage
 2. Create a folder named `BeefRaider` in the root directory of the Quest
-3. Copy the entire contents of the Remaster `1` folder into `BeefRaider`
+3. Copy the complete `1` and/or `2` folders from Tomb Raider I-III Remastered into `BeefRaider`, keeping their original folder names and contents
 4. Install the BeefRaiderXR APK on your Quest
-5. Launch BeefRaiderXR on the headset
+5. Launch BeefRaiderXR on the headset and select Tomb Raider I or Tomb Raider II from the game selection screen, depending on which folders you copied
 
-**Note:** The Quest version has not been tested and currently has significant graphics issues, including flickering, shader errors and poor performance at some places
+Your folder structure should look like this if you install both games:
+
+```text
+BeefRaider/
+├── 1/
+└── 2/
+```
+
+**Note:** The Quest version has not been tested and currently has significant graphics issues, including flickering, shader errors and poor performance in some areas
 
 ## Graphics and presentation
 
